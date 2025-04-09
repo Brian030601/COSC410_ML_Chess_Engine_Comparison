@@ -1,0 +1,3002 @@
+[
+  {
+    "game_id": "St Petersburg RUS",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Changsha CHN",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "New Delhi IND",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Marseille FRA",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Moscow",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Havana",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Canberra AUS",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Leon ESP",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Ershovo RUS",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Sochi RUS",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Moscow RUS",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Germany GER",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Porto San Giorgio ITA",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "playchess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Dubai UAE",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Richardson USA",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Moscow",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Padova ITA",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Liberec CZE",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Le Port-Marly FRA",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Bol na Bracu CRO",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Vrnjacka Banja SRB",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Ramat Gan ISR",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Berlin",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Karlsruhe GER",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "St Petersburg",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Semey KAZ",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Amsterdam",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Basel SUI",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Giessen",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Prague",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Kiel GER",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "lichess.org INT",
+    "fen": "rnbqkb1r/pp1ppppp/5n2/2p5/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Bydgoszcz",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Czech Republic CZE",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Oer-Erkenschwick GER",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Lisbon POR",
+    "fen": "rnbqkb1r/pp1ppppp/5n2/2p5/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Hanoi VIE",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Rochefort FRA",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Yerevan",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Moscow RUS",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Munich",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "?",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Germany",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Leipzig",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Shijiazhuang CHN",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Lima PER",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Austria",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Baden AUT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Bol CRO",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Crete GRE",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Leningrad",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 2 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Ho Chi Minh City VIE",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Ayvalik TUR",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 2 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Biel SUI",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Karpacz POL",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 3 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Ventnor City",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "St Petersburg RUS",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess24.com INT",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess24.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Noordwijk",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Kragujevac",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Seville ESP",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 3 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pp1ppppp/5n2/2p5/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Almaty KAZ",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Skalica SVK",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "South Fallsburg",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Liberec CZE",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Tehran IRI",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Qingdao CHN",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Moscow",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 2 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "FIDE Online Arena INT",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Sanya City CHN",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Tromso NOR",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Biel SUI",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Linares ESP",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Kvisla NOR",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Leipzig",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Moscow",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Anogia GRE",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Cala Gonone ITA",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Tilburg",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Sochi RUS",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Shenzhen CHN",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "St Petersburg RUS",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Budapest HUN",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Velden AUT",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Petrovac MNE",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Portoroz SLO",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Sochi RUS",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Thessaloniki GRE",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Moscow",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Florianopolis BRA",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Daventry ENG",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Copenhagen DEN",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Netherlands NED",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Cadaques ESP",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Kiev",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 2 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Prague",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Odense",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Beersheba",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Germany",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Panama PAN",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Kolkata IND",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Rymanow-Zdroj POL",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Hungary HUN",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Ankara TUR",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Linz AUT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Moscow RUS",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Buenos Aires",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Fagernes NOR",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Wuxi CHN",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Germany",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Berlin GER",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Biel",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Zinnowitz",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Novi Sad",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Qingdao CHN",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 2 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Havana",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Portoroz",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Czech Republic CZE",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Moscow RUS",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "FRA",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Bydgoszcz POL",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Baden Baden GER",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Cetinje",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Lisbon POR",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Rakovnik",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Berlin GER",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Katernberg GER",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Robecchetto",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Skopje",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 2 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Adapazari TUR",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Qinhuangdao CHN",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Jyvaskyla FIN",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Prague CZE",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Moscow RUS",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Zaandam",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Prague CZE",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Charlotte USA",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Geneva SUI",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Olongapo City PHI",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 3 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Budapest HUN",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Stavanger NOR",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Amsterdam",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Kolkata IND",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Santiago",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Novi Sad SRB",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Bingley ENG",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Zurich SUI",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Deizisau GER",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Fuling CHN",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Elista",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Netanya",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Sitges ESP",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Biel SUI",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Rethymnon GRE",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Stockholm SWE",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Lido Estensi ITA",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Sarpsborg NOR",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Legnica POL",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Chartres FRA",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Moscow RUS",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Skien",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Batumi GEO",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Reykjavik",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Bruges BEL",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Cienfuegos",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Germany",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Bassano del Grappa ITA",
+    "fen": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "Buenos Aires",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3",
+    "phase": "opening"
+  },
+  {
+    "game_id": "St Petersburg RUS",
+    "fen": "rnb1k2r/pp3ppp/4p3/8/3N4/6P1/PP1KPP1P/R4B1R b kq - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Changsha CHN",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "New Delhi IND",
+    "fen": "r2k1b1r/pp3ppp/2B1bn2/6N1/4p3/2N5/PP3PPP/R1B1K2R b KQ - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Marseille FRA",
+    "fen": "r1b1k2r/pp3ppp/2n5/3p4/1b6/5NP1/PP1BPPBP/R3K2R b KQkq - 3 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Moscow",
+    "fen": "r1bq1rk1/p2nbppp/1p2p3/2p5/3PPB2/2PB1N2/P4PPP/R2Q1RK1 b - - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Havana",
+    "fen": "r2q1rk1/pp3ppp/2n1bB2/2bp4/8/2N2NP1/PP2PPBP/R2Q1RK1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Canberra AUS",
+    "fen": "r2q1rk1/pp2bpp1/2n1bn1p/2Pp4/8/1PN2NP1/PB2PPBP/R2Q1RK1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Leon ESP",
+    "fen": "rnb2rk1/ppq1bppp/8/2pP4/8/2PB1N2/P4PPP/R1BQ1RK1 b - - 4 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Ershovo RUS",
+    "fen": "r2q1rk1/pp2bppp/2n1bn2/3pN3/2pP1B2/2N3P1/PP2PPBP/2RQ1RK1 b - - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Sochi RUS",
+    "fen": "rn1k1b1r/pp4pp/4pn2/6B1/4p3/2N5/PP3PPP/R3KB1R b KQ - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Moscow RUS",
+    "fen": "r3k2r/pp1b1ppp/2n2B2/q2p4/1b6/P1NQ1N2/1P2PPPP/R3KB1R b KQkq - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Germany GER",
+    "fen": "rn1k1b1r/pp4pp/4pn2/8/2B1p3/2N5/PP3PPP/R1B1K2R b KQ - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Porto San Giorgio ITA",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "playchess.com INT",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Dubai UAE",
+    "fen": "r1bq1rk1/pp2bpp1/2n2n1p/3p4/7B/2NQPN2/PP2BPPP/R3K2R b KQ - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Richardson USA",
+    "fen": "r2k1b1r/pp3ppp/2n1Nn2/1B6/4p3/2N5/PP3PPP/R1B1K2R b KQ - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Moscow",
+    "fen": "r1bq1rk1/pp3ppp/2n1pb2/3n4/3PB3/2N2N2/PP3PPP/R1BQR1K1 b - - 4 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Padova ITA",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Liberec CZE",
+    "fen": "r2q1rk1/pp2bppp/2n1bn2/3pN3/2pP4/2N1B1PP/PP2PPB1/R2Q1RK1 b - - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Le Port-Marly FRA",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/3PP3/5N2/P2QBPPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Bol na Bracu CRO",
+    "fen": "r1bqr1k1/pp2bppp/2n2n2/3pN3/2pP4/2N1B1P1/PP2PPBP/R2QR1K1 b - - 3 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Vrnjacka Banja SRB",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "r1bq1rk1/pp3ppp/2n1pb2/3n4/3PB3/2N2N2/PP3PPP/R1BQR1K1 b - - 6 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "r2q1rk1/pp2bppp/2n2n2/2P5/N2p1Bb1/5NP1/PP2PPBP/R2Q1RK1 b - - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Ramat Gan ISR",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Berlin",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Karlsruhe GER",
+    "fen": "rn1k1b1r/pp4pp/4pn2/6B1/4p3/2N5/PP3PPP/R3KB1R b KQ - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "St Petersburg",
+    "fen": "r1bqr1k1/pp1nbppp/4p3/2p5/3PP3/2PB1N2/P3QPPP/R1BR2K1 b - - 8 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Semey KAZ",
+    "fen": "r2k1b1r/pp1n1ppp/4bn2/6N1/4pB2/P1N5/1P3PPP/R3KB1R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Amsterdam",
+    "fen": "r1b1k2r/pp4pp/2n1pp2/2b5/8/2B1PN2/PP3PPP/R2K1B1R b kq - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Basel SUI",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Giessen",
+    "fen": "r1b1k2r/pp3ppp/2n1p3/q7/1bBPP3/5N2/P2B1PPP/1R1QK2R b Kkq - 6 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Prague",
+    "fen": "rnb1k2r/pp3ppp/4p3/q7/3PP3/5N2/P2Q1PPP/1R2KB1R b Kkq - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Kiel GER",
+    "fen": "r1bqkb1r/pp4pp/n1n1pp2/1N2P3/3p1B2/P4N2/1P3PPP/2RQKB1R b Kkq - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "lichess.org INT",
+    "fen": "r1b1k2r/pp3ppp/2n5/2bp4/8/5NP1/PP2PPBP/R1B2RK1 b kq - 3 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Bydgoszcz",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Czech Republic CZE",
+    "fen": "r1bqk2r/pp3ppp/1bn2n2/8/N2p4/1N4P1/PP2PPBP/R1BQ1RK1 b kq - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Oer-Erkenschwick GER",
+    "fen": "r2q1rk1/pp2bpp1/2n1bn1p/2Pp4/8/1PN2NP1/PB2PPBP/R2Q1RK1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Lisbon POR",
+    "fen": "r1bqr1k1/pp2bppp/2n2n2/3p4/3N4/1PN3P1/PB2PPBP/R2Q1RK1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Hanoi VIE",
+    "fen": "r2qkb1r/1p1n1p1p/p3bp2/3p4/Q1pP4/2N1PNP1/PP3PBP/R3K2R b KQkq - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Rochefort FRA",
+    "fen": "r1b1kb1r/p1qn1ppp/1p2p3/6N1/3P4/2PB4/P2B1PPP/R2QK2R b KQkq - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Yerevan",
+    "fen": "r1bq1rk1/1p2bppp/p1n1p3/3n4/3P4/2NB1N2/PP3PPP/R1BQR1K1 b - - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Moscow RUS",
+    "fen": "r1bq1rk1/p3bppp/1pn1p3/3n4/3P4/2NQ1N2/PPB2PPP/R1B2RK1 b - - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbq1rk1/p4ppp/1p2p3/3N4/3P4/3B4/PP1N1PPP/R2QK2R b KQ - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Munich",
+    "fen": "rnbq1rk1/pp3ppp/4N3/8/1Q2n3/4P3/PP1B1PPP/R3KB1R b KQ - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "?",
+    "fen": "r3kb1r/pp3ppp/2n1bn2/3pN3/1qpP4/2N3P1/PP2PPBP/R1BQ1RK1 b kq - 5 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Germany",
+    "fen": "rnbk3r/1p3ppp/p3p3/2b3B1/1n2P3/N1N5/PP3PPP/R3KB1R b KQ - 3 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Leipzig",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Shijiazhuang CHN",
+    "fen": "r1bq1rk1/pp2bppp/2n1p3/8/1n1PB3/2N2N2/PP2QPPP/R1B2RK1 b - - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Lima PER",
+    "fen": "r2q1rk1/pp3pbp/2n1bnp1/2Pp2B1/Q7/2N2NP1/PP2PPBP/R4RK1 b - - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Austria",
+    "fen": "r1bq1rk1/pp3ppp/2n1pb2/3n4/3PB3/2N2N2/PP3PPP/R1BQR1K1 b - - 6 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "r2q1rk1/pp2bppp/2n1bn2/3p2B1/8/2N1PN2/PP2BPPP/2RQ1RK1 b - - 5 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Baden AUT",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rn1q1rk1/pp2bpp1/4bn1p/3p4/3Q3B/2NBPN2/PP3PPP/3RK2R b K - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Bol CRO",
+    "fen": "r2q1rk1/pp2bppp/2n1bn2/3p2B1/Q7/2N1PN2/PP2BPPP/R4RK1 b - - 6 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Crete GRE",
+    "fen": "r1bq1rk1/pp1nbpp1/7p/2pp4/3P4/1P1BPN2/P1Q2PPP/R1B2RK1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Leningrad",
+    "fen": "r1bq1rk1/pp2bppp/2n1p3/2P5/4P3/3B1N2/PP3PPP/R1BQ1RK1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Ho Chi Minh City VIE",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Ayvalik TUR",
+    "fen": "r1bq1rk1/pp3ppp/2n1pn2/6B1/1b1P4/2NB1N2/PP3PPP/R2Q1RK1 b - - 8 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Biel SUI",
+    "fen": "r1bqk2r/pp3ppp/2n1p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQkq - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "r2q1rk1/pp3ppp/2n1bB2/2bp4/8/2N2NP1/PP2PPBP/R2Q1RK1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Karpacz POL",
+    "fen": "r1bq1rk1/pp3ppp/2n2b2/3p4/2pP4/2N1PNP1/PP3PBP/R2Q1RK1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Ventnor City",
+    "fen": "r1bq1rk1/p3bppp/1pn1p3/2p5/2BP4/2P1PN2/P3QPPP/R1BR2K1 b - - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "St Petersburg RUS",
+    "fen": "r2q1rk1/pp3ppp/2n1bn2/2bp2B1/8/2N1PN2/PP2BPPP/2RQ1RK1 b - - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess24.com INT",
+    "fen": "r2k1b1r/pp3ppp/2n1bn2/1B4N1/4pB2/2N5/PP3PPP/R3K2R b KQ - 3 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rn1q1rk1/pp2bpp1/4bn1p/3p4/3Q3B/2NBPN2/PP3PPP/3RK2R b K - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess24.com INT",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/3P4/4PN2/P2QBPPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Noordwijk",
+    "fen": "r1bq1rk1/p3bppp/1pn5/2pp4/3P4/3BPN2/PP1B1PPP/R2QR1K1 b - - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Kragujevac",
+    "fen": "r1bqk2r/pp2bpp1/2n1p2p/8/3P4/2PB1N2/P1Q2PPP/R1B2RK1 b kq - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Seville ESP",
+    "fen": "r1bq1rk1/pp3p1p/2n2p2/3p4/1bpP4/2N3P1/PP2PPBP/R2QNRK1 b - - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Almaty KAZ",
+    "fen": "r1bq1rk1/pp2bpp1/2n2n1p/3p4/Q6B/2N1PN2/PP2BPPP/R3K2R b KQ - 3 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Skalica SVK",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "South Fallsburg",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/3PP3/5N2/P2QBPPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Liberec CZE",
+    "fen": "r1bq1rk1/p3bppp/1pn1p3/2pP4/P3P3/2P2N2/4BPPP/R1BQ1RK1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbq1rk1/pp3ppp/4p3/1B6/3PP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Tehran IRI",
+    "fen": "r2qk2r/pp2bppp/2n1bn2/3p2B1/8/2NQPN2/PP2BPPP/R3K2R b KQkq - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Qingdao CHN",
+    "fen": "rn1k1b1r/pp4pp/4pn2/6B1/4p3/2N5/PP3PPP/R3KB1R b KQ - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Moscow",
+    "fen": "r1bqk2r/pp2bppp/2n1p3/8/3P4/5NP1/P2BPPBP/R2Q1RK1 b kq - 4 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "FIDE Online Arena INT",
+    "fen": "r1bq1rk1/pp2bppp/2n5/3p4/2pPn3/PPN2NP1/1B2PPBP/R2Q1RK1 b - - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Sanya City CHN",
+    "fen": "rnbq1rk1/pp3ppp/4p3/1B6/3PP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Tromso NOR",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Biel SUI",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Linares ESP",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Kvisla NOR",
+    "fen": "r2k1b1r/pp1n1ppp/4bn2/6N1/4pB2/P1N5/1P3PPP/R3KB1R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Leipzig",
+    "fen": "r1bq1rk1/pp3ppp/2n1pb2/3n4/3PB3/P1N2N2/1P3PPP/R1BQ1RK1 b - - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Moscow",
+    "fen": "r1bq1rk1/pp1nbppp/2n1p3/2p5/3PN3/1B2PN2/PP2QPPP/R1B2RK1 b - - 10 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Anogia GRE",
+    "fen": "r2qkb1r/1p1b1ppp/p1n1p3/8/4P3/2Q2N2/PP2BPPP/R1B2RK1 b kq - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Cala Gonone ITA",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Tilburg",
+    "fen": "r1bq1rk1/p3bppp/1pn1p3/2p5/3P4/P1PBPN2/1B3PPP/R2Q1RK1 b - - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "r1bq1rk1/pp2bppp/2n1pn2/8/3P4/2NB1N2/PP2QPPP/R1BR2K1 b - - 6 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Sochi RUS",
+    "fen": "r1b1kb1r/pp3ppp/4p3/8/3P4/6P1/P3PPBP/R1B1K2R b KQkq - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "r2q1rk1/pp2bppp/2n1bn2/3p2B1/2pP4/1PN2NP1/P3PPBP/2RQ1RK1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Shenzhen CHN",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "St Petersburg RUS",
+    "fen": "r1b1kb1r/pp3ppp/1qn5/1B1p4/3N4/2Q5/PP3PPP/R1B2RK1 b kq - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Budapest HUN",
+    "fen": "r2q1rk1/pp2bppp/2n1bn2/3p2B1/Q7/2N1PN2/PP2BPPP/R4RK1 b - - 6 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Velden AUT",
+    "fen": "r2q1rk1/pp2bppp/2n1bn2/3p2B1/3N4/2N1P3/PP2BPPP/2RQ1RK1 b - - 6 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Petrovac MNE",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Portoroz SLO",
+    "fen": "r3kb1r/pp1q1ppp/2n1p3/8/3NP3/2P5/P4PPP/R1BQ1RK1 b kq - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Sochi RUS",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Thessaloniki GRE",
+    "fen": "rnb4r/pp2k1pp/4pp2/2b5/8/2P1PN2/PB3PPP/3RKB1R b K - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Moscow",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/3PP3/5N2/P2QBPPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "r2qk2r/pp3ppp/1Nn1bn2/8/8/1N4P1/PP2PPBP/R1BQK2R b KQkq - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Florianopolis BRA",
+    "fen": "r2q1rk1/pp1n1ppp/4bn2/3pN1B1/1bpP1P2/2N1P3/PP2B1PP/R2Q1RK1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Daventry ENG",
+    "fen": "rnb2rk1/pp3ppp/4p3/8/1b1B4/P4N2/1P2PPPP/R2K1B1R b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Copenhagen DEN",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Netherlands NED",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Cadaques ESP",
+    "fen": "r1bqk2r/pp2bppp/4p3/4n3/3NB3/2P1P3/P4PPP/R1BQ1RK1 b kq - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rn1q1rk1/pp2bpp1/4bn1p/3p4/3Q3B/2NBPN2/PP3PPP/R4RK1 b - - 5 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Kiev",
+    "fen": "r1bq1rk1/pp2bppp/2n1p3/8/1P1pP3/2N2NP1/1P3PBP/R1BQ1RK1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Prague",
+    "fen": "r2qk2r/pp1nbpp1/4bn1p/3p4/7B/2NBPN2/PP3PPP/R2Q1RK1 b kq - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Odense",
+    "fen": "r1bqr1k1/pp2bppp/2n1p3/3n4/3P4/P1NB1N2/1P3PPP/R1BQR1K1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Beersheba",
+    "fen": "r1bq1rk1/p3bppp/1pn1pn2/2p5/3P4/P1N1PN2/1PQ2PPP/RBB2RK1 b - - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Germany",
+    "fen": "r1bq1rk1/pp2bppp/2n1pn2/8/3P4/P1NB1N2/1P3PPP/R1BQR1K1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Panama PAN",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/3PP3/5N2/P2QBPPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Kolkata IND",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/3PP3/5N2/P2QBPPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Rymanow-Zdroj POL",
+    "fen": "rnb1k2r/pp3pQp/4p3/8/qb2P3/6P1/PP1N1P1P/R1B1KB1R b KQkq - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Hungary HUN",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Ankara TUR",
+    "fen": "r3kb1r/pp1b1ppp/2n5/q7/4n3/2N2N2/PP1BPPPP/R2QKB1R b KQkq - 6 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Linz AUT",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnb2rk1/pp3ppp/4p3/1N1q4/8/4P3/PP1Q1PPP/R3KB1R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Moscow RUS",
+    "fen": "r1bq1rk1/pp2bpp1/2n2n1p/3p4/7B/2NQPN2/PP2BPPP/R3K2R b KQ - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Buenos Aires",
+    "fen": "r1bq1rk1/pp2bppp/2n1p3/3n4/3P4/P1NB1N2/1P1B1PPP/R2QK2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/3PP3/3B1N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Fagernes NOR",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/3PP2P/5N2/P2Q1PP1/R3KB1R b KQ - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Wuxi CHN",
+    "fen": "r1bq1rk1/pp2bpp1/2n2n1p/3p4/Q6B/2NBPN2/PP3PPP/R3K2R b KQ - 3 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Germany",
+    "fen": "rnbq1rk1/1p2bppp/p3p3/8/P1BNP3/2B5/1P3PPP/R2QK2R b KQ - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Berlin GER",
+    "fen": "rnbq1rk1/1p2bppp/p3p3/8/3N4/2B3P1/PPQ1PPBP/R3K2R b KQ - 4 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Biel",
+    "fen": "r2q1rk1/pb2bppp/1pn1p3/2pn4/3PN3/P2BPN2/1P3PPP/R1BQR1K1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Zinnowitz",
+    "fen": "r1bq1rk1/p3bppp/1pn5/2Pp4/8/3BPN2/PP3PPP/R1BQR1K1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Novi Sad",
+    "fen": "r1b2rk1/ppq1bppp/2n1p3/2p5/3PP3/2PBBN2/P4PPP/2RQ1RK1 b - - 8 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Qingdao CHN",
+    "fen": "rn1k1b1r/pp4pp/4pn2/6B1/4p3/2N5/PP3PPP/R3KB1R b KQ - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Havana",
+    "fen": "r1bq1rk1/pp2bppp/2n5/3p4/3P4/1QN2N2/PP3PPP/R1B2RK1 b - - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Portoroz",
+    "fen": "r1bq1rk1/pp2bppp/2n1pn2/8/3P4/P1N2N2/1PB2PPP/R1BQ1RK1 b - - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Czech Republic CZE",
+    "fen": "r1bq1rk1/pp2bpp1/2n2n1p/3p4/Q6B/2N1PN2/PP2BPPP/R3K2R b KQ - 3 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Moscow RUS",
+    "fen": "r1bq1rk1/pp2bpp1/2n2n1p/3p4/7B/2NQPN2/PP2BPPP/R3K2R b KQ - 3 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "FRA",
+    "fen": "rn1qk2r/pb2bppp/1p2p3/8/3PPB2/3B1N2/P4PPP/R2Q1RK1 b kq - 3 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Bydgoszcz POL",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/3PP3/5N2/P2Q1PPP/2R1KB1R b K - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Baden Baden GER",
+    "fen": "rn1k1b1r/pp4pp/4pn2/6B1/4p3/2N5/PP3PPP/R3KB1R b KQ - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Cetinje",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/3PP3/5N2/P2QBPPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Lisbon POR",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbqk2r/p4ppp/1p2p3/8/3P4/5NP1/P2QPPBP/R3K2R b KQkq - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Rakovnik",
+    "fen": "rnb1k2r/pp3ppp/4p3/8/3N4/6P1/PP1KPP1P/R4B1R b kq - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Berlin GER",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Katernberg GER",
+    "fen": "r1b1kb1r/pp3ppp/2n1p3/8/1Q2P3/5NP1/PP1B1P1P/R3KB1R b KQkq - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Robecchetto",
+    "fen": "r1bq1rk1/pp2bpp1/2n2n1p/3p4/3N4/2N1B1P1/PP2PPBP/R2Q1RK1 b - - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Skopje",
+    "fen": "r2q1rk1/pp2bppp/2N1bn2/3p4/2pP4/2N1B1P1/PP2PPBP/R2Q1RK1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Adapazari TUR",
+    "fen": "r1bq1rk1/pp3ppp/2n2n2/3pb1B1/3N4/2N1P1P1/PP3PBP/R2Q1RK1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Qinhuangdao CHN",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Jyvaskyla FIN",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rn1q1rk1/pp2bppp/4b3/3np3/8/1NN3P1/PP1BPPBP/R2Q1RK1 b - - 5 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Prague CZE",
+    "fen": "rn1k1b1r/pp4pp/4pn2/6B1/4p3/2N5/PP3PPP/R3KB1R b KQ - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Moscow RUS",
+    "fen": "rnbq1rk1/p3bppp/1p2pn2/4P3/3N4/2N1B3/PP2BPPP/R2QK2R b KQ - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Zaandam",
+    "fen": "r1bq1rk1/pp2bppp/2n2n2/3p4/N2N4/6P1/PP2PPBP/R1BQ1RK1 b - - 3 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Prague CZE",
+    "fen": "r1bqk2r/pp3ppp/1bn2n2/8/N2p4/1N4P1/PP2PPBP/R1BQ1RK1 b kq - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Charlotte USA",
+    "fen": "r2qkb1r/pp3pp1/2n1bn1p/3p4/7B/2NQPN2/PP3PPP/R3KB1R b KQkq - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Geneva SUI",
+    "fen": "rnb1k2r/pp3ppp/4p3/8/1b2P3/5NP1/PP1B1P1P/R3KB1R b KQkq - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Olongapo City PHI",
+    "fen": "r1bq1rk1/1p3ppp/p1n2n2/2bp4/5B2/2N1PN2/PP2BPPP/2RQ1RK1 b - - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Budapest HUN",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Stavanger NOR",
+    "fen": "r1bq1rk1/pp2bpp1/2n2n1p/3p4/7B/2NQPN2/PP2BPPP/R3K2R b KQ - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/3PP3/3B1N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Amsterdam",
+    "fen": "r1bq1rk1/pp2bppp/2n1p3/8/2BP4/2P2N2/P4PPP/R1BQR1K1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Kolkata IND",
+    "fen": "r2qk2r/pp1b1ppp/2n5/3Q4/1b6/4PN2/PP1B1PPP/R3KB1R b KQkq - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "r1bqk2r/pp3ppp/2n1p3/8/3PP3/5N2/P2QBPPP/R3K2R b KQkq - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "r1bq1rk1/pp2bpp1/2n2n1p/3p4/Q6B/2NBPN2/PP3PPP/R3K2R b KQ - 3 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Santiago",
+    "fen": "r1bqk2r/pp3pbp/2n1p1p1/8/3PP3/3B1N2/P4PPP/R1BQ1RK1 b kq - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "r2q1rk1/pp2bppp/2n2n2/3p2B1/2pP2b1/2N1PNPP/PP3PB1/R2Q1RK1 b - - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Novi Sad SRB",
+    "fen": "r1bq1rk1/p4ppp/2p2n2/2bp4/N7/6P1/PP2PPBP/R1BQ1RK1 b - - 3 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Bingley ENG",
+    "fen": "rnbq1rk1/pp2bppp/8/1N2p3/8/2P1P3/P3BPPP/R1BQ1RK1 b - - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Zurich SUI",
+    "fen": "r2k1b1r/pp3ppp/2B1bn2/6N1/4p3/2N5/PP3PPP/R1B1K2R b KQ - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Deizisau GER",
+    "fen": "r1bq1rk1/pp3ppp/2n1pb2/3n4/3PB3/2N2N2/PP3PPP/R1BQR1K1 b - - 8 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Fuling CHN",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnb1k2r/pp3ppp/4p3/8/3N4/6P1/PP1KPP1P/R4B1R b kq - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Elista",
+    "fen": "r3kb1r/pp3ppp/2n1bB2/1qpp4/N2P4/5NP1/P3PPBP/R2Q1RK1 b kq - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Netanya",
+    "fen": "r1bq1rk1/pp2bppp/2n2n2/3p4/N7/4BNP1/PP2PPBP/R2Q1RK1 b - - 3 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Sitges ESP",
+    "fen": "r1b2rk1/ppq1bppp/2n1p3/2p5/3P1B2/2P2NP1/P3PPBP/1R1Q1RK1 b - - 6 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Biel SUI",
+    "fen": "r1bqk2r/p4ppp/2n1p3/1p6/1b1PP3/3B1N2/P2B1PPP/R2QK2R b KQkq - 3 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Rethymnon GRE",
+    "fen": "r1bqk2r/pp3ppp/2n1p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQkq - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Stockholm SWE",
+    "fen": "r1bqk2r/pp3ppp/1bn2n2/8/N2p4/1N4P1/PP2PPBP/R1BQ1RK1 b kq - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Lido Estensi ITA",
+    "fen": "r1b1kb1r/pp3ppp/4p3/8/3P4/6P1/P3PPBP/R1B1K2R b KQkq - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Sarpsborg NOR",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Legnica POL",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Chartres FRA",
+    "fen": "r3k2r/pp1n1ppp/4bq2/3p4/1bpPP3/2N2N2/PP2BPPP/R2Q1RK1 b kq - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Moscow RUS",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Skien",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Batumi GEO",
+    "fen": "r2k1b1r/pp3ppp/2n1Nn2/1B6/4p3/2N5/PP3PPP/R1B1K2R b KQ - 0 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Reykjavik",
+    "fen": "r1b2rk1/pp2bppp/2n1p3/2p4q/3PB3/4PN2/PPQ2PPP/R1B2RK1 b - - 3 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Bruges BEL",
+    "fen": "r2qk2r/pp2bpp1/2n1bn1p/3pN3/2pP3B/2N1P3/PP2BPPP/R2Q1RK1 b kq - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Cienfuegos",
+    "fen": "rnbr2k1/ppq1bppp/4p3/2p5/3PP3/2P1BN2/P3BPPP/RQ3RK1 b - - 8 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Germany",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/2BPP3/5N2/P2Q1PPP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Bassano del Grappa ITA",
+    "fen": "rn1k1b1r/pp4pp/4pn2/8/2B1p3/2N5/PP3PPP/R1B1K2R b KQ - 1 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "Buenos Aires",
+    "fen": "rnbq1rk1/pp3ppp/4p3/8/3P4/5NP1/P2QPPBP/R3K2R b KQ - 2 11",
+    "phase": "midgame"
+  },
+  {
+    "game_id": "St Petersburg RUS",
+    "fen": "8/p7/2pk4/R3p2K/4P2P/1P4r1/P7/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "New Delhi IND",
+    "fen": "8/2k3p1/4p2p/3n4/8/7P/R4KP1/8 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Marseille FRA",
+    "fen": "8/pk5p/1p2bp2/3rP3/3R1P2/1P6/P2KN2P/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Moscow",
+    "fen": "8/2Q3kn/1p1B2pb/4P3/3P4/8/P4PPP/1q3NK1 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Canberra AUS",
+    "fen": "6k1/p3bpp1/1p2B2p/8/P2pP3/1P3PP1/7P/2N3K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Ershovo RUS",
+    "fen": "2rr2k1/5pbp/4b1p1/pp2N3/1q1P4/1P2PQP1/4B2P/2R1R1K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Sochi RUS",
+    "fen": "5b2/pp2k3/4p2p/4N2P/5n2/5P2/PP6/1K1B4 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Moscow RUS",
+    "fen": "5r2/pp2k2Q/5p2/1b2p3/1P6/P7/5PPP/6K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Germany GER",
+    "fen": "8/R5pp/p1r2nk1/1p6/8/1B5P/Pr3PP1/R5K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Porto San Giorgio ITA",
+    "fen": "6k1/5pp1/3P3p/ppq2R2/6n1/PB1Q2P1/5PKP/4r3 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Dubai UAE",
+    "fen": "6k1/1p1n1pp1/4b2p/1R1p4/1P3P2/4P3/4B1PP/2r1BK2 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Richardson USA",
+    "fen": "8/prk3p1/Rnp2r1p/4p2R/8/BP3P2/P3K1PP/8 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Padova ITA",
+    "fen": "6k1/3n1p2/1p2p2p/p5p1/P2PP1P1/3K1P1P/r2N4/2R5 b - - 6 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Le Port-Marly FRA",
+    "fen": "3r1q2/p6k/1p4pp/3N1p1P/4n3/5Q2/P4PP1/3R2K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "3q2k1/p4p2/1p4p1/2n1P2p/P1B5/5QP1/5P2/6K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Bol na Bracu CRO",
+    "fen": "3r2k1/p5p1/2bq1p1p/2p2P2/2p3P1/2B4P/PP2Q3/4R1K1 b - - 3 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "4r1k1/1p1q1pp1/2nPb2p/p7/1n3Q2/2N2NPP/1P1R1PBK/8 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Ramat Gan ISR",
+    "fen": "6k1/6p1/pp1N3p/1b1P4/6B1/2n1r2P/P4PP1/R5K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Berlin",
+    "fen": "5r1k/p5pp/1p2Q3/4R2q/3P4/5r2/P1R2P1P/7K b - - 6 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Karlsruhe GER",
+    "fen": "8/7p/4k3/1N2b3/P1p1p3/6P1/1PK4P/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "St Petersburg",
+    "fen": "5r1k/6pp/q7/R2Q4/2p1P3/2PnB1P1/5P1P/6K1 b - - 4 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Semey KAZ",
+    "fen": "5k2/2r3b1/pr5p/2N5/1P1nRp2/P2R4/6BP/6K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Amsterdam",
+    "fen": "2n5/7p/p2k1p2/1p2p1p1/4P3/PNPK4/5PPP/8 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Basel SUI",
+    "fen": "5r2/pbq1Pp1k/5Ppp/1p6/3Q4/6R1/6PP/R5K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Prague",
+    "fen": "3r4/1R4p1/p3p1k1/1pNnP3/8/8/P2K1PPP/8 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Kiel GER",
+    "fen": "3r4/pp4pk/n2NQ2p/8/1P3B1P/6P1/1K6/6q1 b - - 3 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "lichess.org INT",
+    "fen": "8/p6p/2pr1k2/2R3p1/1P4P1/P3PK2/8/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Bydgoszcz",
+    "fen": "3r1r1k/2RP3p/1p5p/5p1N/2n4P/8/P4PP1/3R2K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Czech Republic CZE",
+    "fen": "8/5pk1/1p5p/2p5/P4Nb1/1P2P3/3r1P2/4R1K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Oer-Erkenschwick GER",
+    "fen": "6k1/6p1/1p2qpb1/p2p3p/1P5P/Q4BP1/P3PPK1/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Yerevan",
+    "fen": "6k1/4bp1p/p3p1p1/4P3/2pr4/Pq1r2P1/1PR1QP1P/3NR1K1 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Moscow RUS",
+    "fen": "r5k1/4np1p/p2Rp1p1/1p2P3/7P/P5N1/1P3PP1/6K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "2Q5/p2r1pk1/1p4p1/7p/1P6/P2q3P/5PP1/5RK1 b - - 4 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Munich",
+    "fen": "5k2/pp3p2/5npp/2r5/B1bR3P/2P1PP2/P1R2K2/8 b - - 8 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "?",
+    "fen": "1r3rk1/3q1p2/n1p2Qp1/p2pP2B/P1pP1P2/2Pb2P1/5R1P/R2N2K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Germany",
+    "fen": "5k1R/1b4p1/p4p2/1p2n3/2r2N2/6r1/NPB5/1K2R3 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Shijiazhuang CHN",
+    "fen": "r1N2b2/ppR5/4k2p/5p2/1P3P2/P7/5P1P/6K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Lima PER",
+    "fen": "8/8/6R1/prk2p2/8/5BP1/4PP1P/6K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Austria",
+    "fen": "5k2/5pp1/p1N1b3/1p4p1/8/P4P1P/1P4P1/6K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "6k1/pp4p1/7p/3p4/1P6/P3P3/1qN2PPP/3Q2K1 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Baden AUT",
+    "fen": "6k1/6p1/4p2p/8/2N1bP2/8/5KPP/8 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "8/pp1r4/1b3pkp/6p1/3N2P1/1P1RP3/P4P1P/6K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Crete GRE",
+    "fen": "4r2k/Qp1q2pb/p2r1p1p/8/8/1P2B1RP/P4PPK/5R2 b - - 7 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Leningrad",
+    "fen": "r5k1/1p4pp/p3r3/1P1B4/3p4/P7/5PPP/3R2K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Ho Chi Minh City VIE",
+    "fen": "1r5k/pb3Rp1/7p/1p6/8/1B2KP2/P5PP/8 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Ayvalik TUR",
+    "fen": "3q2k1/p2rnpp1/3rp2p/1R6/2RPB3/P3Q1P1/5P1P/6K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "8/pp4pp/1b1rpk2/8/P3R2P/2R1P1PB/r4PK1/8 b - - 12 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Karpacz POL",
+    "fen": "3r2k1/p4p1p/1b4p1/3P4/2Q5/5BP1/P2q1P1P/5RK1 b - - 3 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Ventnor City",
+    "fen": "5k2/p4p1p/1p4p1/2r5/4PP2/8/P2R1KPP/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "St Petersburg RUS",
+    "fen": "8/R4pk1/5n1p/8/2P5/7P/1r3PP1/6K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess24.com INT",
+    "fen": "8/2r2kp1/4p2p/R7/3Bp3/P2n4/3K1PPP/8 b - - 4 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "3r4/pp2kp2/8/n5p1/1b2N3/1P2P1B1/P4PPP/5K2 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess24.com INT",
+    "fen": "br6/3nk1p1/1p2p2p/4P3/2NP4/3B4/1R3KPP/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Kragujevac",
+    "fen": "4R3/5kp1/p1n5/1p3bB1/3P4/2P3K1/P7/1R6 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Seville ESP",
+    "fen": "8/5pkp/1p1rb1n1/5p2/2pP4/q1P3P1/1R1Q1PBP/1R4K1 b - - 7 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "3r4/3P2p1/p4pk1/7p/5P2/3R1P2/P4K1P/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Almaty KAZ",
+    "fen": "8/pp2kp2/4b2p/3p2p1/1r1P2P1/3BK2P/PP1R2P1/8 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "4r1k1/5p1p/R2P2p1/1p6/2nR4/6P1/P4P1P/6K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "South Fallsburg",
+    "fen": "5r2/p5pk/1p1Npp1p/3nP3/3P4/P7/5PPP/2R3K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Liberec CZE",
+    "fen": "1r3k2/r4p1p/p1P3p1/2p5/2P5/2b2BP1/R4P1P/2R3K1 b - - 10 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Qingdao CHN",
+    "fen": "8/p7/2p1p3/3k1p2/5P2/6r1/PP3KP1/6R1 b - - 13 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "FIDE Online Arena INT",
+    "fen": "3R2k1/pp3ppb/8/5P2/3P2Pb/P7/1B2r1B1/7K b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Sanya City CHN",
+    "fen": "8/5p1k/1p1N2pp/p2bP3/5P2/P6P/6PK/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Tromso NOR",
+    "fen": "2r3k1/pb1q1ppp/1p1np3/6P1/3PP3/5N1P/P1B1QP2/3R2K1 b - - 10 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Linares ESP",
+    "fen": "5rk1/R4p1p/3Rn1p1/1p2r3/7P/1B3P2/P4PK1/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Kvisla NOR",
+    "fen": "4k3/3b1pp1/1p2n3/P7/P6r/8/3B1PBP/2R3K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Moscow",
+    "fen": "3r1nk1/6pp/pp1rpb2/8/3q1P2/5R2/PPB1Q1PP/1RB4K b - - 8 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Anogia GRE",
+    "fen": "5k2/1p3ppp/4p3/8/1R2P3/8/3r1PPP/5K2 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Cala Gonone ITA",
+    "fen": "r5k1/5pp1/2NRr1np/4P3/p7/4R2P/5PPK/8 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Tilburg",
+    "fen": "8/Qb3ppk/1pq2b1p/3r4/2pP4/4BP2/6PP/3RR1K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "8/p4kp1/1pb1pr1p/8/P1Pr4/3BRP2/6PP/R5K1 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Sochi RUS",
+    "fen": "8/2r1k1p1/pp2p3/6pP/3P4/3K4/P3P3/6R1 b - - 5 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "2R5/6p1/3b1k1p/pB6/P2r4/6P1/4PPKP/8 b - - 4 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Shenzhen CHN",
+    "fen": "2r3k1/1r1n1pp1/1p2p2p/q3P3/3PN3/1R2Q2P/5PP1/1R4K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Velden AUT",
+    "fen": "1r6/1r3p2/2pkbp1p/p2p4/2B1P3/P4P2/1PRR1KPP/8 b - - 4 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "5k2/3Brpp1/1p3n1p/4N3/1q6/1Q4RP/5PP1/6K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Petrovac MNE",
+    "fen": "8/1Q6/p4pkp/1p1P4/7r/P5K1/B4PP1/4r3 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Portoroz SLO",
+    "fen": "6k1/p2Rn2p/8/1p6/4PK2/2P2P2/7r/8 b - - 3 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Sochi RUS",
+    "fen": "2rr2k1/p4p2/1q2p1pQ/1p2N1P1/3P3R/7P/P5PK/3b4 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Moscow",
+    "fen": "3q4/p3kPpp/bp6/n2p2Q1/8/6PP/P4P1K/8 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "3r1k2/2R2ppp/1p6/2p1P3/2n2P2/2B3P1/5K1P/8 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Florianopolis BRA",
+    "fen": "5r2/5pkp/4q3/p5P1/3Pp3/2p1P3/Prp2Q1P/2R3RK b - - 3 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Daventry ENG",
+    "fen": "8/p1b1kp2/1p2p1p1/4P2p/1P2K3/P3nPP1/1B1N3P/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Copenhagen DEN",
+    "fen": "6k1/3n2p1/1p1Npp1p/4P3/3P1P2/4Q1K1/1q4PP/8 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Netherlands NED",
+    "fen": "2rr4/p4ppk/1p6/3bN1p1/4n3/3B1PRP/P5P1/3R2K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Cadaques ESP",
+    "fen": "2rr1k2/p4ppp/1pB1pn2/1P6/5P2/1R2P1PP/P1R2K2/8 b - - 3 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "6r1/pp1r1p1k/5p1p/3p1P2/5N2/bP1RPK1P/P4P2/1R6 b - - 4 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "6k1/p4pp1/1p1n3p/4N3/4P3/P6P/5PP1/6K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Germany",
+    "fen": "4r1k1/pb1q1p1p/1p4p1/5nB1/2BP1Q2/P1P5/5PPP/2R3K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Panama PAN",
+    "fen": "4rnk1/p4pp1/1p5p/2q1P3/5Q2/8/P4PP1/1B2R1K1 b - - 5 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Kolkata IND",
+    "fen": "8/p5p1/bp2kpNp/2r4P/4P1P1/P4P2/3R3K/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Rymanow-Zdroj POL",
+    "fen": "2kr4/pP5p/3np3/4P3/5P2/3K1P2/P3B1rP/2R4R b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Hungary HUN",
+    "fen": "3r4/3Pkpp1/1pq4p/p2R4/7P/1P2QP2/5PK1/8 b - - 11 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Ankara TUR",
+    "fen": "3n1r2/4Rpk1/1r4p1/3B3p/7P/4P3/6P1/5RK1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Linz AUT",
+    "fen": "4r3/p4pk1/6pp/1p6/n3PNPP/3R1P2/P2R1K2/2r5 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "2r3k1/3r1ppp/p5b1/1p6/2nN1RPP/1B2P3/P3K3/5R2 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Moscow RUS",
+    "fen": "2r5/p3b3/1p2k2p/3p1pp1/2r5/2PKPP2/P1R3PP/1R2B3 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Buenos Aires",
+    "fen": "2r3k1/p4qp1/bp1Q3p/5p2/1P5P/P4P2/5BP1/3R2K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "1r4k1/5pp1/p1bNp2p/P2qP3/2pP4/2Q2P1P/6P1/3R2K1 b - - 4 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Fagernes NOR",
+    "fen": "6k1/p5p1/1p2p2p/6qP/3PR3/P1r3P1/4QP2/6K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Wuxi CHN",
+    "fen": "2r4k/5p2/7p/p2Qq1p1/1p6/4P2P/PP3PP1/3R2K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Berlin GER",
+    "fen": "5b2/1p4pp/p3kp2/Bb2p3/8/4PPP1/PP2NK1P/8 b - - 3 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Biel",
+    "fen": "2r3qk/p6R/4N1pQ/2p4p/3b4/P2p1P2/1P1R1P1P/6K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Novi Sad",
+    "fen": "2rn3k/1p3rb1/p1bPp3/4P3/2p2B1Q/2P2P2/P5P1/1R2R1K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Qingdao CHN",
+    "fen": "8/8/1p2p2p/p7/P2k2P1/3BbP2/1PK5/8 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Portoroz",
+    "fen": "b1r1r1k1/q3b2p/p3p1p1/4Np2/N1BP4/1P6/4QPPP/3R2K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Bydgoszcz POL",
+    "fen": "3r4/1b4p1/3Pk2p/p1r5/Pp1RnP2/4Q2P/6P1/7K b - - 3 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "8/2Q3pk/1pb2p1p/n1q1p3/4P3/3B1P1P/4K1P1/4N3 b - - 5 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "3r2k1/p4p2/1p4p1/3P4/3R3P/5P2/P5KP/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Rakovnik",
+    "fen": "r7/p1k2ppp/2prp3/6P1/R6P/1P2KP2/P1R1P3/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Berlin GER",
+    "fen": "8/1Q4pk/p3p2p/8/4P3/3n1N1P/5PPK/2q5 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Katernberg GER",
+    "fen": "8/4k1p1/pp2pp1p/3bP3/3KNPPP/P7/1P6/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Robecchetto",
+    "fen": "r4k2/2R2pp1/7p/p2q4/4p2P/4Q1P1/5PK1/8 b - - 3 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Adapazari TUR",
+    "fen": "2r1r3/1k3p2/pp2b3/3p1p2/3P1Q2/2NB2P1/PP5P/6K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Qinhuangdao CHN",
+    "fen": "2r5/pb2Pk1p/1p6/5N2/4p3/8/P4PPP/4R1K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Jyvaskyla FIN",
+    "fen": "8/4rk1p/R3p2p/p3P3/n2N4/6P1/5P1P/6K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "8/p2rn1pp/1p1k1p2/4p3/PP2P3/4B1P1/4KP1P/2R5 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Prague CZE",
+    "fen": "8/p5b1/1p5p/8/P2n1kp1/2N5/1P3PBP/2K5 b - - 6 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Zaandam",
+    "fen": "4r1k1/1p1r4/p1b1qp2/3p2np/5Q2/P1B1P1P1/1PR2PB1/2R3K1 b - - 3 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Prague CZE",
+    "fen": "3r2k1/5pp1/bp6/2p3Qq/4P2P/8/PP5P/2N1R1K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Charlotte USA",
+    "fen": "2r5/q5k1/p2npb1p/1p1p2p1/1Pn1P3/PQ3P1P/4N1PB/3R1B1K b - - 4 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Geneva SUI",
+    "fen": "2r3r1/p4p2/1p2k1p1/4p2p/4P2P/5KP1/PP3P2/2RR4 b - - 15 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Olongapo City PHI",
+    "fen": "8/4Q1kp/2q1p3/1b1p1P2/1P6/4P3/6PP/4R1K1 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Stavanger NOR",
+    "fen": "4r1k1/1pq2p2/2n1r2p/1p2P1p1/1P6/PQ4PP/5P2/2RR1BK1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Kolkata IND",
+    "fen": "1k1r4/p6Q/1p3p2/4n3/3N2p1/P3P1Pp/1q3P1P/5RK1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "1q1r2k1/pn5r/1p3Q2/7P/4R3/6P1/P4P2/2R3K1 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Santiago",
+    "fen": "bB4k1/5pbp/1p2p1p1/p3P3/3P3P/3B4/5PP1/6K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "3r2k1/r4pp1/p6p/4PP2/2p1P1P1/2Rb3P/6B1/R6K b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Novi Sad SRB",
+    "fen": "4R1k1/5pp1/1p6/8/1qrQ4/5PPp/PP3K1P/8 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Bingley ENG",
+    "fen": "2r5/p7/1p2kpp1/n3p2p/4P2P/2P1NPP1/P1R1K3/8 b - - 6 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Deizisau GER",
+    "fen": "r4k2/1R3p1p/3rb1pb/pp2N3/3P4/P3PN2/1P3KPP/2R5 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Fuling CHN",
+    "fen": "2r3k1/3n1ppp/8/1p1Pp1P1/p2P3P/P4P2/4NK2/4R3 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "6k1/4qpp1/1n5p/pb1PPQ2/1pr4P/8/P5PN/1B2R1K1 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "1k1r4/p5pp/2p1bp2/7R/NP3P2/P1K5/4P2P/8 b - - 8 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Elista",
+    "fen": "4rrk1/1p4bp/8/p1q5/3p1p2/3N1RP1/P4PBP/3Q2K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Sitges ESP",
+    "fen": "8/N2bk1p1/7p/3p1p2/3PP3/5PP1/P4K1P/8 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "8/pb1rkp2/4p2p/1p4p1/3PP3/1BrR1P2/P4K1P/3R4 b - - 3 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Biel SUI",
+    "fen": "3R4/5ppk/p6r/1p6/2n5/5PK1/P4P1P/2R5 b - - 14 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Rethymnon GRE",
+    "fen": "6k1/p2r1pp1/1p2P3/6pP/P3R3/8/5PK1/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Stockholm SWE",
+    "fen": "2b3k1/2q2p1p/rp2r1p1/1Qp5/P7/4P1PB/5P1P/1R1R2K1 b - - 17 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Sarpsborg NOR",
+    "fen": "2r3k1/p5pn/1p2P3/3B2p1/8/2r4P/P5P1/3RR1K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Legnica POL",
+    "fen": "6k1/pq3ppn/1p2p2p/3RP3/8/5PP1/P1R1Q1KP/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Chartres FRA",
+    "fen": "3r2k1/2n1R1p1/p6p/3p4/PPp2P1P/3bN1P1/1q4B1/3Q3K b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Skien",
+    "fen": "2r3k1/4r1p1/pp2p1Qp/n3P2N/7P/8/5PP1/6K1 b - - 4 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Batumi GEO",
+    "fen": "4r3/p2k4/2p1p3/3r1p2/2Nb1P1p/1P5R/P1K3PP/4R3 b - - 4 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Bruges BEL",
+    "fen": "2b2qk1/p4p2/3r2Pp/1p6/2pPBQ2/P3P3/1P4P1/5RK1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Cienfuegos",
+    "fen": "7k/3n1pp1/B1b1p2p/4P2P/2N2b2/8/5PP1/3R2K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Bassano del Grappa ITA",
+    "fen": "6k1/p2Rb1pp/1p2p3/8/2r5/P5P1/1B3P1P/5K2 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Buenos Aires",
+    "fen": "2R2r1k/pp4pp/6q1/3Pp3/8/6P1/P4rQP/2R4K b - - 3 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Beijing CHN",
+    "fen": "3r2k1/1br2pp1/pp3q1p/3nN3/2B5/5R1P/PQ3PP1/3R2K1 b - - 7 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "r5k1/5pp1/1RR1pn1p/8/p3P3/1p3P1P/5KP1/5N2 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "2rq2k1/p2r2p1/1p1RpP1p/8/8/6Q1/P4PPP/4R1K1 b - - 4 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "8/p1r2pk1/qp4p1/3Qb2p/8/2P1P2P/P3NPP1/2R3K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Benasque ESP",
+    "fen": "2r5/Rp1rkp2/2b3pp/8/3NN3/2R1P2P/1n3PP1/6K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Baku AZE",
+    "fen": "3r2r1/1R3pk1/6q1/p2pP2R/2pP1pQ1/P6P/5PP1/7K b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Sharjah UAE",
+    "fen": "8/5qpk/1pQ1p2p/p2nP3/3P4/5N1P/5PP1/6K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Montesilvano ITA",
+    "fen": "1k5r/1p1r4/p3q3/4n1p1/4PpB1/P1R4P/1P2QPP1/2R3K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "2r3k1/5ppp/1p2p3/p7/P7/4P1P1/4R2P/2N3K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "5rk1/1QR1R1p1/1p1r1qpp/8/8/3p3P/P4PP1/6K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "8/5kp1/7p/1p2p3/1R6/2Pq2P1/5P1P/1R4K1 b - - 3 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Prague",
+    "fen": "4r2k/pb4pp/1p6/4q3/8/1B1Q1P1P/P5P1/3R3K b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Bad Elster",
+    "fen": "2r3k1/5pp1/1q2pn1p/1b2N3/p2PP3/1Pr2P1P/3R1QP1/1B1R2K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Wijk aan Zee",
+    "fen": "4r3/1p1Rbpkp/pqR1p3/4P2p/P7/1P3N2/5PP1/2Q3K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "8/p3rppp/1p1k4/3b4/1Pnp1P2/P5PB/2R1P2P/4K3 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Moscow RUS",
+    "fen": "r2rb1k1/pp5p/1q4p1/3nQ3/4N1p1/8/PP4PP/1B3R1K b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Helsingor DEN",
+    "fen": "4k3/6Rp/5p2/K7/P5P1/1r6/8/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess24.com INT",
+    "fen": "r7/2RP2pk/7p/5p2/pp5P/5P2/P4KP1/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Panormo GRE",
+    "fen": "8/p1kb2K1/1p2p3/6P1/3P4/5B2/P3Pr2/8 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Ikaros GRE",
+    "fen": "2b2rk1/p5pp/1pP1p3/r7/P2P2P1/1B2K2P/8/2R1R3 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Mumbai IND",
+    "fen": "5k2/R4P2/2r3pp/8/2p2p1P/2N2b2/PP3P2/2K5 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "4R1k1/pb4pp/1p3p2/3P1N2/8/8/P4PPP/6K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Khanty-Mansiysk RUS",
+    "fen": "1k3b2/5r2/p1r4p/1p1R1N1P/2nB2R1/8/P4PP1/5K2 b - - 4 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Evry FRA",
+    "fen": "1r1r4/R2Pkp1p/1p1Rp1p1/1B1bP3/5P2/8/6PP/6K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "2R5/6pk/p3p2p/3q4/P7/1Q6/KP3r1P/8 b - - 4 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "London",
+    "fen": "8/5ppp/2knp3/pp6/3PP1P1/P1K2P1P/1N6/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Camaguey",
+    "fen": "8/pp3k1p/2b2p2/n2p1qp1/PP1P4/2N2P2/6PP/2Q1N1K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Ruma SRB",
+    "fen": "6k1/Rb4p1/3np2p/5p2/2NrP3/5P2/4B1PP/6K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Shenyang CHN",
+    "fen": "8/3nkp1p/1p2p1p1/p7/3PP3/2r2PP1/P2R1K1P/3N4 b - - 11 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Hamedan IRI",
+    "fen": "4r3/3q1ppk/1prP3p/4pN1n/4P3/5P2/P2Q2P1/2R1R1K1 b - - 5 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Caorle",
+    "fen": "3Q4/1p3ppk/q3b2p/8/8/Pp2N3/1P1K1PPP/8 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Weilburg",
+    "fen": "6k1/5p1p/r2q2p1/pp6/8/P1Q3P1/B4P1P/2R3K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Miercurea Ciuc ROU",
+    "fen": "2r2k2/1p1b1p2/p6p/3p2p1/3P2P1/3BKP2/PP4P1/3R4 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Riga LAT",
+    "fen": "R7/6pk/p6p/1p1r4/6P1/8/P4PP1/6K1 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Celje SLO",
+    "fen": "8/3r1kp1/R6p/8/8/7P/5PPK/8 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Philadelphia USA",
+    "fen": "3r4/p5Q1/1p2k3/7P/3nP3/8/P4PPK/1r6 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Chiang Mai THA",
+    "fen": "2r5/p5k1/3b2p1/5q2/Np1P4/1Q3PP1/P1p4P/2R3K1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Nancy FRA",
+    "fen": "6r1/p1k5/2p5/5p2/8/2P2RP1/P1KR3r/8 b - - 12 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Ramat Aviv",
+    "fen": "1r6/4kp2/4p1p1/1p1PK1P1/p1b1P2P/P4B2/8/2R5 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Qiziwan CHN",
+    "fen": "4k1r1/pp5p/5p2/3Np2R/2nP4/7P/P3KPP1/8 b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Hanoi VIE",
+    "fen": "3r1k2/5p1p/1p1P4/1N1R1p2/P1r2P2/7P/6PK/8 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "1r4k1/5p1p/1r3pb1/3p4/1ppPP3/2P2PPP/1R6/4RBK1 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Boston",
+    "fen": "5k2/p1R3pp/1p3p2/3p3q/8/1Q2P1PP/rP3PK1/8 b - - 5 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Dagomys RUS",
+    "fen": "1r4k1/3R3p/4p2p/8/R7/4K3/2r2PPP/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Wroclaw POL",
+    "fen": "8/Q4pk1/1p3bpp/4q3/3p2P1/1P4P1/P3BPK1/3R4 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Gothenburg",
+    "fen": "1rqr2k1/5ppp/p5n1/R1pBPb2/2P5/3N2P1/5P1P/3RQ1K1 b - - 3 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Bad Blankenburg GER",
+    "fen": "5k2/p5p1/1p3P2/3n1N1p/8/P5P1/4KP1P/8 b - - 0 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Zillertal AUT",
+    "fen": "8/p2r1kpp/1p1P1p2/8/5B1P/b5P1/P4PK1/3R4 b - - 2 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "ARG",
+    "fen": "2r5/p5pp/3k1b2/2p5/2K5/5N2/P4PPP/3R4 b - - 13 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "Buenos Aires",
+    "fen": "4k3/2q4p/p1pRPpr1/2P5/5Q2/4p2r/P3B2P/3R3K b - - 1 31",
+    "phase": "endgame"
+  },
+  {
+    "game_id": "chess.com INT",
+    "fen": "2r5/1b4k1/1p1q2p1/1B1PpP1p/2P4P/2Q5/5PPK/2R5 b - - 0 31",
+    "phase": "endgame"
+  }
+]
