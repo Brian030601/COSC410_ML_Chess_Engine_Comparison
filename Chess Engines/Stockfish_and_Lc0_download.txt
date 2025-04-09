@@ -1,1 +1,5 @@
+Stockfish file is too large to upload
+Stockfish can be downloaded manually from: https://stockfishchess.org/download/
 
+Leela Chess Zero (Lc0) is also too large to upload
+Lc0 can be downloaded from https://lczero.org/play/download/
