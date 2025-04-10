@@ -1,5 +1,7 @@
 # COSC410_ML_Chess_Engine_Comparison
 
+Here is the link to the Github Repo: https://github.com/Brian030601/COSC410_ML_Chess_Engine_Comparison.git
+
 This project compares Leela Chess Zero and Komodo Dragon 1 to Stockfish chess engine and evaluates their  best moves on Stockfish Analysis Engine. Based on the analysis, the project ranks the three chess engines and plays head to head matches with one another under different situations. 
 
 # First Step - Data Collection / Extraction
