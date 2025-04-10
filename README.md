@@ -25,3 +25,7 @@ As for best movement agreement, Komodo found the same best move 80.5% of the tim
 In the future, the project will look into head to head matches between the three engines under different time constraints. That way, the project will be able to see which engine runs faster and makes the best evaluations. 
 
 Additionally, the project will look at opening, midgame, and endgame centipawn valuation differences and see which engine is better at which phase. 
+
+# Project Replication
+
+To replicate the project, the paths for file and engine location needs to be modified.
