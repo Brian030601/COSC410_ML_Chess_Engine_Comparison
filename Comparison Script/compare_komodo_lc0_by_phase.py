@@ -2,7 +2,6 @@ import json
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import matplotlib.pyplot as plt
 
 with open("lc0_move_with_stockfish_eval.json") as f:
     lc0_data = json.load(f)

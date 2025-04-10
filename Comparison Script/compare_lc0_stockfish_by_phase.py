@@ -2,7 +2,6 @@ import json
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import matplotlib.pyplot as plt
 
 with open("stockfish_phase_eval.json") as f:
     sf_data = json.load(f)
