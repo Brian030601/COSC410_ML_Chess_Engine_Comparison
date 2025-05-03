@@ -68,13 +68,12 @@ Outputs are stored in the `Head-to_head Results` folder in their respective name
 ## Future Directions
 
 To build on this project:
-- Test engine performance under **varied time controls** (e.g., 0.1s, 1s, 5s per move)
-- Benchmark engine evaluations using their own scoring functions
-- Include **human grandmaster games** for engine-human comparison
-- Explore **hybrid symbolic-neural engines** as baselines
+- Test engine performance under varied time controls to increase sample size and robustness of head-to-head matches. To do so, you can change `time_per_move` to 0.1s, 0.25s, 1s, 2s, 5s per move in `Lc0_vs_SF.py`, `Komodo_vs_SF.py`, and `Komodo_vs_Lc0.py`.
+- Benchmark engine evaluations using other engines such as Lc0's or Komodo's evaluation functions to avoid Stockfish bias. In each of `evaluate_stockfish_by_phase.py`, `evaluate_lc0_by_phase.py`, and `evaluate_komodo_by_phase.py`, you can use Komodo's or Lc0's evaluation metrics instead of Stockfish's for all three of them.
+- Include human grandmaster (2600+ Elo) games in the dataset for engine-human comparison, which will require handpicked dataset. 
 
-## 👥 Contributions
+## Contributions
 
-**Brian Kherlen** (solo contributor)
-- Developed codebase, evaluated all engines, built comparison framework, wrote final poster.
-- Estimated time spent: **60–70 hours**.
+**Brian Kherlen**: I am the solo group member. I did the following:
+- Downloaded dataset, developed codebase, evaluated all engines, built comparison framework, created head-to-head matches, and created final poster.
+- Estimated time spent: **50–70 hours**.
