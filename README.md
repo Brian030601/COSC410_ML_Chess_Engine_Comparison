@@ -12,6 +12,8 @@ The project findings show that Stockfish consistently selects stronger moves acc
 
 ## Replication Instructions
 
+Note: Update paths in all scripts to point to your local files in replication process as the project owner's own file and folder paths are used in this project and scripts. 
+
 ### 1. Download the Dataset
 - Download PGN game data from the [Lichess Open Database](https://database.lichess.org/#standard_games). The project used `lichess_db_standard_rated_2013-01.pgn.zst`, which is uploaded in `Chess Data` folder.
 - Unzip the file to get SemiTarraschMain.pgn, which is also uploaded in the `Chess Data` folder.
@@ -22,37 +24,48 @@ The project findings show that Stockfish consistently selects stronger moves acc
 - The output is named `phase_fens.json`, and it is located in `Chess Data` folder.
 
 ### 3. Set Up Engines
-- Download and place the following engines in the `Chess Engines/` folder:
+- Download the Stockfish, Leela Chess Zero, and Komodo Dragon engines from the below links:
   - [Stockfish 16](https://stockfishchess.org/download/)
   - [Leela Chess Zero (Lc0)](https://lczero.org/play/)
   - [Komodo Dragon 1](https://komodochess.com/)
 -  Note: Update paths in all scripts to point to your local engine executables and weights files (Lc0).
 
-### 4. **Run Engine Evaluations**
-- Run the following scripts in order:
-  - `evaluate_stockfish_by_phase.py`
-  - `evaluate_lc0_by_phase.py`
-  - `evaluate_komodo_by_phase.py`
+### 4. Run Engine Evaluations
+- Run the following scripts in order in the `Evaluation Scripts` folder:
+  - `evaluate_stockfish_by_phase.py` to get Stockfish's own evaluation on its move.
+  - `evaluate_lc0_by_phase.py` to get Stockfish's evaluation on Lc0's move.
+  - `evaluate_komodo_by_phase.py` to get Stockfish's evaluation on Komodo's move.
 
-Outputs:
-- `stockfish_phase_eval.json`
-- `lc0_move_with_stockfish_eval.json`
-- `komodo_move_with_stockfish_eval.json`
+Outputs are stored in the `Engine Evaluation Results` folder under the following names:
+- `stockfish_phase_eval.json` for Stockfish's own evaluation on its move. 
+- `lc0_move_with_stockfish_eval.json` for Stockfish's evaluation on Lc0's move.
+- `komodo_move_with_stockfish_eval.json` for Stockfish's evaluation on Komodo's move.
 
-### 5. **Run Engine Comparisons**
+### 5. Run Engine Comparisons
 In the `Comparison Scripts/` folder, run:
-- `compare_lc0_stockfish_by_phase.py`
-- `compare_komodo_stockfish_by_phase.py`
-- `compare_lc0_komodo_by_phase.py`
-- `plot_move_agreement.py`
+- `compare_lc0_stockfish_by_phase.py` to see which engine (Stockfish vs Lc0) does better on the 600 positions and get a graph.
+- `compare_komodo_stockfish_by_phase.py` to see which engine (Stockfish vs Komodo) does better on the 600 positions and get a graph.
+- `compare_lc0_komodo_by_phase.py` to see which engine (Lc0 vs Komodo) does better on the 600 positions and get a graph.
+- `plot_move_agreement.py` to get Lc0 and Komodo's move agreement with Stockfish.
 
-### 6. **Run Head-to-Head Matches (Optional but Encouraged)**
-Use the `head_to_head_match.py` scripts to simulate 10-game matches between:
-- Stockfish vs. Lc0
-- Stockfish vs. Komodo
-- Lc0 vs. Komodo
+Outputs are stored in the `Comparison Results` folder under the following names:
+`eval_diff_histogram_sf_vs_lc0.png` for total evaluation difference between SF vs Lc0.
+`eval_diff_histogram_sf_vs_komodo.png` for total evaluation difference between SF vs Komodo.
+`eval_diff_lc0_vs_komodo.png` for total evaluation difference between Lc0 vs Komodo.
+`move_agreement_by_phase_3engines.png` for Lc0 and Komodo's move agreement with Stockfish.
+`phase_eval_summary_table_sf_lc0.png` for phase evaluation difference between SF vs Lc0.
+`phase_eval_summary_table_sf_komodo.png` for phase evaluation difference between SF vs Komodo.
+`phase_eval_summary_table_lc0_komodo.png` for phase evaluation difference between Lc0 vs Komodo.
 
-## 🧪 Future Directions
+### 6. Run Head-to-Head Matches
+In the `Head-to-Head Script` folder, run:
+- `Lc0_vs_SF.py` to get the 10 head-to-head match result between Lc0 and Stockfish. You can change `time_per_move` to = 0.5 and 2.5 to replicate the project. 
+- `Komodo_vs_SF.py` to get the 10 head-to-head match result between Komodo and Stockfish. You can change `time_per_move` to = 0.5 and 2.5 to replicate the project. 
+- `Komodo_vs_Lc0.py` to get the 10 head-to-head match result between Komodo and Lc0. You can change `time_per_move` to = 0.5 and 2.5 to replicate the project. 
+
+Outputs are stored in the `Head-to_head Results` folder in their respective names. 
+
+## Future Directions
 
 To build on this project:
 - Test engine performance under **varied time controls** (e.g., 0.1s, 1s, 5s per move)

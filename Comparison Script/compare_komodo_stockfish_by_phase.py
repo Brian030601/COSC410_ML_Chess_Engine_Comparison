@@ -65,7 +65,7 @@ plt.title("Stockfish Evaluation Difference (SF - Komodo Move)")
 plt.xlabel("Centipawn Difference")
 plt.ylabel("Frequency")
 plt.tight_layout()
-plt.savefig("eval_diff_histogram_komodo_with_counts.png")
+plt.savefig("eval_diff_histogram_sf_vs_komodo.png")
 plt.show()
 
 #table

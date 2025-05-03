@@ -66,7 +66,7 @@ plt.title("Stockfish Evaluation Difference (SF - Lc0 Move)")
 plt.xlabel("Centipawn Difference")
 plt.ylabel("Frequency")
 plt.tight_layout()
-plt.savefig("eval_diff_histogram_with_counts.png")
+plt.savefig("eval_diff_histogram_sf_vs_lc0.png")
 plt.show()
 
 # table
