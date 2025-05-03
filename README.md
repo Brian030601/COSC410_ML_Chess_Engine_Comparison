@@ -6,18 +6,13 @@ Here is the link to the Github Repo: https://github.com/Brian030601/COSC410_ML_C
 
 ## Overview
 
-This project compares the strategic quality of three chess engines—Stockfish, Leela Chess Zero (Lc0), and Komodo Dragon 1—across different phases of a game: opening, midgame, and endgame. Using Stockfish’s centipawn evaluation as the common benchmark, the project analyzes how each engine performs in terms of move quality, agreement with Stockfish, and head-to-head matches under timed conditions.
+Using Stockfish’s centipawn evaluation as the common benchmark, this project compares the strategic quality of three different chess engines—Stockfish, Leela Chess Zero (Lc0), and Komodo Dragon 1—across different phases of a game: opening, midgame, and endgame. Additionally, the project analyzes how each engine performs in terms of move quality and head-to-head matches under timed conditions. The project findings show that Stockfish consistently selects stronger moves according to its own evaluations. However, Lc0 performs better than Komodo in untimed evaluation contexts, while Komodo is more resilient under strict time constraints. Overall, while Stockfish dominates in both speed and accuracy, Lc0 has more potential to improve given more time, and Komodo is the most stable.
 
-The project findings show that **Stockfish consistently outperforms both Lc0 and Komodo** across all phases. However, Lc0 performs better than Komodo in slow evaluation contexts, while Komodo is more resilient under strict time constraints. Stockfish is also the most consistent in identifying the strongest move across different board states and time settings.
+## Replication Instructions
 
-## 🔁 Replication Instructions
-
-### 1. **Download the Dataset**
-- Download PGN game data from the [Lichess Open Database](https://database.lichess.org/#standard_games). We used `lichess_db_standard_rated_2013-01.pgn.zst`.
-- Unzip the file using:
-  ```bash
-  pzstd -d lichess_db_standard_rated_2013-01.pgn.zst
-  ```
+### 1. Download the Dataset
+- Download PGN game data from the [Lichess Open Database](https://database.lichess.org/#standard_games). The project used `lichess_db_standard_rated_2013-01.pgn.zst`.
+- Unzip the file to get SemiTarraschMain.pgn, which is also uploaded in Chess Data folder.
 
 ### 2. **Extract Game Positions**
 - Run `extract_games_by_phase.py` in the `Evaluation Scripts/` folder.
@@ -29,7 +24,7 @@ The project findings show that **Stockfish consistently outperforms both Lc0 and
   - [Stockfish 16](https://stockfishchess.org/download/)
   - [Leela Chess Zero (Lc0)](https://lczero.org/play/)
   - [Komodo Dragon 1](https://komodochess.com/)
-- ⚠️ Update paths in all scripts to point to your local engine executables and weights files (Lc0).
+-  Update paths in all scripts to point to your local engine executables and weights files (Lc0).
 
 ### 4. **Run Engine Evaluations**
 - Run the following scripts in order:
@@ -68,16 +63,3 @@ To build on this project:
 **Brian Kherlen** (solo contributor)
 - Developed codebase, evaluated all engines, built comparison framework, wrote final poster.
 - Estimated time spent: **60–70 hours**.
-
-## ✅ Repository Contents
-
-```
-├── README.md
-├── Chess Data/
-├── Chess Engines/
-├── Evaluation Scripts/
-├── Engine Evaluation Results/
-├── Comparison Scripts/
-├── Comparison Results/
-├── Match Results/
-```
