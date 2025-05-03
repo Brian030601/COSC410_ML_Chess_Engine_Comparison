@@ -1,5 +1,7 @@
-Stockfish file is too large to upload
-Stockfish can be downloaded manually from: https://stockfishchess.org/download/
+Stockfish Engine file is too large to upload here.
+Stockfish 16 can be downloaded manually from: https://stockfishchess.org/download/
+After installation, the Stockfish path will be different from user to user. 
 
-Leela Chess Zero (Lc0) is also too large to upload
-Lc0 can be downloaded from https://lczero.org/play/download/
+Leela Chess Zero (Lc0) is also too large to upload here.
+Lc0 (v0.31.2) can be downloaded from https://lczero.org/play/download/
+After installation, the Lc0 path will be different from user to user.

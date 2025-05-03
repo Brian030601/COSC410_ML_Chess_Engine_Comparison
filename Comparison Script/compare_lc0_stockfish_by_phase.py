@@ -3,10 +3,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-with open("stockfish_phase_eval.json") as f:
+with open("Engine Evaluation Results/stockfish_phase_eval.json") as f:
     sf_data = json.load(f)
 
-with open("lc0_move_with_stockfish_eval.json") as f:
+with open("Engine Evaluation Results/lc0_move_with_stockfish_eval.json") as f:
     lc0_data = json.load(f)
 
 assert len(sf_data) == len(lc0_data), "Mismatch in number of FENs!"
@@ -39,9 +39,9 @@ overall = {
     "avg_eval_diff": round(df["eval_diff"].mean(), 2)
 }
 
-print("📊 Summary by Phase:")
+print("Summary by Phase:")
 print(summary)
-print("\n🌍 Overall Summary:")
+print("\n Overall Summary:")
 for k, v in overall.items():
     print(f"{k}: {v}")
 

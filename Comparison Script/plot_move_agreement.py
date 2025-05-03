@@ -3,11 +3,11 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-with open("Previous4/stockfish_phase_eval.json") as f:
+with open("Engine Evaluation Results/stockfish_phase_eval.json") as f:
     sf_data = json.load(f)
-with open("Previous4/lc0_move_with_stockfish_eval.json") as f:
+with open("Engine Evaluation Results/lc0_move_with_stockfish_eval.json") as f:
     lc0_data = json.load(f)
-with open("Previous4/komodo_move_with_stockfish_eval.json") as f:
+with open("Engine Evaluation Results/komodo_move_with_stockfish_eval.json") as f:
     komodo_data = json.load(f)
 
 assert len(sf_data) == len(lc0_data) == len(komodo_data)

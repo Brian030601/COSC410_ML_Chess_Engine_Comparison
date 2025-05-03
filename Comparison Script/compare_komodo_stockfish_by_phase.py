@@ -3,10 +3,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-with open("stockfish_phase_eval.json") as f:
+with open("Engine Evaluation Results/stockfish_phase_eval.json") as f:
     sf_data = json.load(f)
 
-with open("komodo_move_with_stockfish_eval.json") as f:
+with open("Engine Evaluation Results/komodo_move_with_stockfish_eval.json") as f:
     komodo_data = json.load(f)
 
 assert len(sf_data) == len(komodo_data), "Mismatch in number of FENs!"
